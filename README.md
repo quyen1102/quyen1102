@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quyen1102
 - 👀 I’m interested in football, music and game.
-- 🌱 I’m currently learning NodeJS and ReactJS
+- 🌱 Knowledge: Flutter, Nodejs, Reactjs, HTML, CSS, JS
 - 💞️ Infor: facebook: fb.com/1102.ttq
             email contact: quyen.ttq.1102@gmail.com
             
